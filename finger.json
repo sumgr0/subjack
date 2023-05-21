@@ -8,7 +8,7 @@
         "fingerprint": [
             "The specified bucket does not exist",
             "NoSuchBucket",
-	    "<Code>NoSuchBucket</Code>"
+            "<Code>NoSuchBucket</Code>"
         ],
         "nxdomain": false
     },
@@ -18,7 +18,7 @@
             ""
         ],
         "fingerprint": [
-	        "There is no portal here ... sending you back to Aha!"
+            "There is no portal here ... sending you back to Aha!"
         ],
         "nxdomain": false
     },
@@ -28,63 +28,63 @@
             ""
         ],
         "fingerprint": [
-	    "The page you're looking for doesn't exist."
+            "The page you're looking for doesn't exist."
         ],
         "nxdomain": false
     },
     {
-	    "service": "bitbucket",
-	    "cname": [
-		""
-	    ],
-	    "fingerprint": [
-		"Repository not found"
-	    ],
-	    "nxdomain": false
+        "service": "bitbucket",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Repository not found"
+        ],
+        "nxdomain": false
     },
     {
-	    "service": "campaignmonitor",
-	    "cname": [
-		    "createsend.com"
-	    ],
-	    "fingerprint": [
-		    "Double check the URL or",
-		    "Trying to access your account?"
-	    ],
-	    "nxdomain": false
+        "service": "campaignmonitor",
+        "cname": [
+            "createsend.com"
+        ],
+        "fingerprint": [
+            "Double check the URL or",
+            "Trying to access your account?"
+        ],
+        "nxdomain": false
     },
     {
-	    "service": "desk",
-	    "cname": [
-	    	""
-	    ],
-	    "fingerprint": [
-	    	"Please try again or try Desk.com free for 14 days.",
-	    	"Sorry, We Couldn't Find That Page",
-	    	"this help center no longer exists"
-	    ],
-	    "nxdomain": false
+        "service": "desk",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Please try again or try Desk.com free for 14 days.",
+            "Sorry, We Couldn't Find That Page",
+            "this help center no longer exists"
+        ],
+        "nxdomain": false
     },
     {
-	    "service": "digitalocean",
-	    "cname": [
-		    ""
-	    ],
-	"fingerprint": [
-	   "Domain uses DO name serves with no records in DO."
-	],
-	"nxdomain": false
+        "service": "digitalocean",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Domain uses DO name serves with no records in DO."
+        ],
+        "nxdomain": false
     },
     {
-	"service": "easyredir",
-	"cname": [
-	   "easyredirengine.com"
-	],
-	"fingerprint": [
-	   "www.easyredircdn.com",
-	   "404-host-not-found.html"
-	],
-	"nxdomain": false
+        "service": "easyredir",
+        "cname": [
+            "easyredirengine.com"
+        ],
+        "fingerprint": [
+            "www.easyredircdn.com",
+            "404-host-not-found.html"
+        ],
+        "nxdomain": false
     },
     {
         "service": "elasticbean",
@@ -116,8 +116,7 @@
     },
     {
         "service": "gitbook",
-        "cname": [
-        ],
+        "cname": [],
         "fingerprint": [
             "If you need specifics, here's the error"
         ],
@@ -303,7 +302,7 @@
     {
         "service": "teamwork",
         "cname": [
-		    "teamwork.com"
+            "teamwork.com"
         ],
         "fingerprint": [
             "Oops - We didn't find your site."
@@ -331,8 +330,8 @@
         "fingerprint": [
             "The page you are looking for doesn't exist or has been moved.",
             "The page you are looking for doesn&#x27;t exist or has been moved",
-	    "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>",
-	    "<meta content=\"The page you are looking for doesn&#x27;t exist or has been moved.\" name=\"description\">"
+            "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>",
+            "<meta content=\"The page you are looking for doesn&#x27;t exist or has been moved.\" name=\"description\">"
         ],
         "nxdomain": false
     },
@@ -343,7 +342,7 @@
         ],
         "fingerprint": [
             "<p>Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.</p>",
-	    "`Company Not Found",
+            "`Company Not Found",
             "(?:Company Not Found|you&rsquo;re looking for doesn&rsquo;t exist)"
         ],
         "nxdomain": false
@@ -355,17 +354,17 @@
         ],
         "fingerprint": [
             "Help Center Closed",
-	    "<title>Help Center Closed | Zendesk</title>",
+            "<title>Help Center Closed | Zendesk</title>",
             "this help center no longer exists"
         ],
         "nxdomain": false
     },
     {
-	    "service": "ssl-zendesk",
-	    "cname": [
-	        ".ssl.zendesk.com"
-	    ],
-	    "fingerprint": [],
-	    "nxdomain": true
-   }
+        "service": "ssl-zendesk",
+        "cname": [
+            ".ssl.zendesk.com"
+        ],
+        "fingerprint": [],
+        "nxdomain": true
+    }
 ]
