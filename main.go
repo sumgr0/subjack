@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/haccer/subjack/subjack"
+	"github.com/sumgr0/subjack/subjack"
 )
 
 func main() {
