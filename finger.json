@@ -118,7 +118,8 @@
         "service": "gitbook",
         "cname": [],
         "fingerprint": [
-            "If you need specifics, here's the error"
+            "If you need specifics, here's the error",
+            "Domain not found"
         ],
         "nxdomain": false
     },
