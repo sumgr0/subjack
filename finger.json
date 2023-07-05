@@ -23,16 +23,6 @@
         "nxdomain": false
     },
     {
-        "service": "aftership",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "The page you're looking for doesn't exist."
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "bitbucket",
         "cname": [
             ""
