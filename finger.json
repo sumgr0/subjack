@@ -13,33 +13,12 @@
         "nxdomain": false
     },
     {
-        "service": "aha.io",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "There is no portal here ... sending you back to Aha!"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "bitbucket",
         "cname": [
             ""
         ],
         "fingerprint": [
             "Repository not found"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "campaignmonitor",
-        "cname": [
-            "createsend.com"
-        ],
-        "fingerprint": [
-            "Double check the URL or",
-            "Trying to access your account?"
         ],
         "nxdomain": false
     },
@@ -52,16 +31,6 @@
             "Please try again or try Desk.com free for 14 days.",
             "Sorry, We Couldn't Find That Page",
             "this help center no longer exists"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "digitalocean",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "Domain uses DO name serves with no records in DO."
         ],
         "nxdomain": false
     },
@@ -91,16 +60,6 @@
         ],
         "fingerprint": [
             "Domain isn't configured"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "getresponse",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "Cette landing page n'est plus disponible"
         ],
         "nxdomain": false
     },
@@ -221,16 +180,6 @@
         "nxdomain": false
     },
     {
-        "service": "pingdom",
-        "cname": [
-            "stats.pingdom.com"
-        ],
-        "fingerprint": [
-            "Sorry, couldn't find the status page"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "readme",
         "cname": [
             "readme.io"
@@ -258,34 +207,6 @@
         "fingerprint": [
             "Link does not exist",
             "This domain is not configured on Short.io"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "smartjobboard",
-        "cname": [],
-        "fingerprint": [
-            "Job Board Is Unavailable",
-            "This job board website is either expired",
-            "This job board website is either expired or its domain name is invalid."
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "softr",
-        "cname": [],
-        "fingerprint": [
-            "The application you were looking for was built on Soft"
-        ],
-        "nxdomain": false
-    },
-    {
-        "service": "sprintful",
-        "cname": [],
-        "fingerprint": [
-            "The user account associated with this calendar has been deactivated.",
-            "Please contact the owner of this calendar directly in order to book a meeting.",
-            "This domain name does not have a default page configured."
         ],
         "nxdomain": false
     },
