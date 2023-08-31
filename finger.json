@@ -35,6 +35,17 @@
         "nxdomain": false
     },
     {
+        "service": "duda",
+        "cname": [
+            "multiscreensite.com"
+        ],
+        "fingerprint": [
+            "This site is not published or does not have a domain assigned to it",
+            "If you have any questions, please contact your website administrator"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "easyredir",
         "cname": [
             "easyredirengine.com"
