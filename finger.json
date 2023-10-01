@@ -120,10 +120,11 @@
     {
         "service": "instapage",
         "cname": [
-            ""
+            "secure.pageserve.co"
         ],
         "fingerprint": [
-            "You've Discovered A Missing Link. Our Apologies!"
+            "Looks Like You're Lost",
+            "Pageserver 404"
         ],
         "nxdomain": false
     },
