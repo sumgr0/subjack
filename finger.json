@@ -22,6 +22,17 @@
         ],
         "nxdomain": false
     },
+        {
+        "service": "clever-cloud",
+        "cname": [
+            "par.clever-cloud.com"
+        ],
+        "fingerprint": [
+            "The application you're trying to access doesn't seem to exist",
+            "support@clever-cloud.com"
+        ],
+        "nxdomain": false
+    },
     {
         "service": "desk",
         "cname": [
