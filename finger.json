@@ -257,19 +257,6 @@
         "nxdomain": false
     },
     {
-        "service": "webflow",
-        "cname": [
-            ""
-        ],
-        "fingerprint": [
-            "The page you are looking for doesn't exist or has been moved.",
-            "The page you are looking for doesn&#x27;t exist or has been moved",
-            "<p>The page you are looking doesn't exist or has been moved.</p>",
-            "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "worksites",
         "cname": [
             ""
