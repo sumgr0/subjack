@@ -129,17 +129,6 @@
         "nxdomain": false
     },
     {
-        "service": "instapage",
-        "cname": [
-            "secure.pageserve.co"
-        ],
-        "fingerprint": [
-            "Looks Like You're Lost",
-            "Pageserver 404"
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "jetbrains",
         "cname": [
             "youtrack.cloud"
