@@ -152,7 +152,7 @@
     {
         "service": "meteorcloud",
         "cname": [
-            "galaxy-ingress.meteor.com"
+            ".meteor.com"
         ],
         "fingerprint": [
             "404 Not Found: No applications registered for host"
