@@ -116,6 +116,26 @@
         ],
         "nxdomain": false
     },
+        {
+        "service": "gohire",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "You may have followed an invalid link or the job you are looking for has been archived"
+        ],
+        "nxdomain": false
+    },
+    {
+        "service": "helpdocs",
+        "cname": [
+            "domains.helpdocs.io"
+        ],
+        "fingerprint": [
+            "You've tried to access an account/page that does not exist"
+        ],
+        "nxdomain": false
+    },
     {
         "service": "heroku",
         "cname": [
@@ -223,6 +243,15 @@
         ],
         "nxdomain": false
     },
+        {
+        "service": "softr",
+        "cname": [],
+        "fingerprint": [
+            "The application you were looking for was built on Softr",
+            "Get started with Softr"
+        ],
+        "nxdomain": false
+    },
     {
         "service": "teamwork",
         "cname": [
@@ -243,6 +272,14 @@
             "Domain has been assigned.",
             "Please go to the site settings",
             "put the domain name in the Domain tab"
+        ],
+        "nxdomain": false
+    },
+        {
+        "service": "uptime",
+        "cname": [],
+        "fingerprint": [
+            "<html><body>You are being <a href=\"https://uptime.betterstack.com\">redirected</a>.</body></html>"
         ],
         "nxdomain": false
     },
