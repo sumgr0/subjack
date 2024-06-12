@@ -13,6 +13,20 @@
         "nxdomain": false
     },
     {
+        "service": "azure",
+        "cname": [
+            "azurewebsites.net",
+            "azureedge.net",
+            "cloudapp.net",
+            "cloudapp.azure.com",
+            "azure-api.net",
+            "trafficmanager.net"
+        ],
+        "fingerprint": 
+        [],
+        "nxdomain": true
+    },
+    {
         "service": "bitbucket",
         "cname": [
             ""
