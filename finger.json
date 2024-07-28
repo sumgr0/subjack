@@ -13,7 +13,7 @@
         "nxdomain": false
     },
     {
-        "service": "annoucekit",
+        "service": "announcekit",
         "cname": [
             ""
         ],
