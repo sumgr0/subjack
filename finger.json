@@ -13,6 +13,16 @@
         "nxdomain": false
     },
     {
+        "service": "annoucekit",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Error 404 - AnnounceKit"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "bitbucket",
         "cname": [
             ""
