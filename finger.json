@@ -210,16 +210,6 @@
         "nxdomain": false
     },
     {
-        "service": "ning",
-        "cname": [
-            "ning.com"
-        ],
-        "fingerprint": [
-            ""
-        ],
-        "nxdomain": false
-    },
-    {
         "service": "pantheon",
         "cname": [
             "pantheonsite.io",
