@@ -210,6 +210,18 @@
         "nxdomain": false
     },
     {
+        "service": "ning",
+        "cname": [
+            "ning.com"
+        ],
+        "fingerprint": [
+            "Please double-check the address you've just entered.",
+            "networkname.com",
+            "If you entered"
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "pantheon",
         "cname": [
             "pantheonsite.io",
