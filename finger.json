@@ -216,8 +216,7 @@
         ],
         "fingerprint": [
             "Please double-check the address you've just entered.",
-            "networkname.com",
-            "If you entered"
+            "networkname.com"
         ],
         "nxdomain": false
     },
