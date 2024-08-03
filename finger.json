@@ -210,6 +210,17 @@
         "nxdomain": false
     },
     {
+        "service": "nicepage",
+        "cname": [
+            ""
+        ],
+        "fingerprint": [
+            "Nicepage: Domain Assigned",
+            "Please open to the General Tab of the Site Settings and enter this name into the Custom Domain field."
+        ],
+        "nxdomain": false
+    },
+    {
         "service": "ning",
         "cname": [
             "ning.com"
@@ -296,7 +307,7 @@
         ],
         "nxdomain": false
     },
-        {
+    {
         "service": "uptime",
         "cname": [],
         "fingerprint": [
